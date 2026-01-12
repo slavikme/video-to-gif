@@ -1,6 +1,6 @@
 # Build artifacts
-*.app/
-release/
+*.app
+release
 
 # Xcode
 #
