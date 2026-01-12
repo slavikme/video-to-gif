@@ -6,6 +6,12 @@ A native macOS app that converts videos to high-quality GIFs using FFmpeg. Built
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+<img width="562" height="581" alt="image" src="https://github.com/user-attachments/assets/11b0feec-99fb-4992-8efc-2f1956929e5c" />
+<img width="562" height="581" alt="image" src="https://github.com/user-attachments/assets/f8c5d1ed-b37a-4b83-b8ba-6474a8cc65e9" />
+<img width="562" height="596" alt="image" src="https://github.com/user-attachments/assets/4b763196-583a-4531-8f94-c780f79fb7df" />
+<img width="612" height="572" alt="image" src="https://github.com/user-attachments/assets/f7f8a768-7f77-47ee-99b8-3b2a251c651b" />
+<img width="612" height="572" alt="image" src="https://github.com/user-attachments/assets/38743067-ce26-45f7-b292-4e7d7ece4267" />
+
 ## Features
 
 - **Drag & Drop**: Simply drag any video file onto the app window
